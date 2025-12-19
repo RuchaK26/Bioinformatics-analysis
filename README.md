@@ -77,7 +77,7 @@ These help in visually understanding feature behavior and relationships.
 
 ## 📧 Contact
 If required:
-**Email:** (Add your email)  
-**LinkedIn / GitHub Profile:** (Optional)
+**Email:** khumkarrucha@gmail.com  
+
 
 ---
